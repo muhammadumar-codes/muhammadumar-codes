@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey there 👋, I'm Muhammad Umar
 
-<!--
-**muhammadumar-codes/muhammadumar-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Frontend Developer** | UI/UX Enthusiast | Lifelong Learner  
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🌱 Currently learning **React.js & TypeScript**  
+- 👯 Open to collaborate on **React projects**  
+- 🎯 Goal: Build beautiful, responsive, and performant web apps  
+- ⚡ Fun fact: I can turn into pixel-perfect UIs 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,git,github,figma,vite)](https://skillicons.dev)
+
+---
+
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
+
+---
+
+### 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOURUSERNAME)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](https://yourportfolio.com)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOURUSERNAME)  
+
+---
+
+⭐️ From [Your Name](https://github.com/YOURUSERNAME)
