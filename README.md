@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me  
+## About Me  
 - 🌱 Currently improving my skills in **React & TypeScript**  
 - 👯 Open to collaborating on **frontend and open-source projects**  
 - 💡 Love creating **clean, responsive, and user-friendly UIs**  
@@ -17,13 +17,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode,yarn,npm,tailwind,bootstrap,figma)](https://skillicons.dev)
 
----
-
-## 📊 GitHub Stats  
-
-![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadumar-codes&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumar-codes&layout=compact&theme=radical)
 
 ---
 
