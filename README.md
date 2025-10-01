@@ -1,6 +1,7 @@
 # Hey there 👋, I'm Muhammad Umar
 
-💻 **Frontend Developer** | UI/UX Enthusiast | Lifelong Learner  
+💻 Fron-End Developer | Future Full Stack Developer | BS Computer Science (Software Engineering)
+
 
 ### 🚀 About Me
 - 🌱 Currently learning **React.js & TypeScript**  
@@ -17,15 +18,13 @@
 
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumar-codes&layout=compact&theme=radical)
 
 ---
 
 ### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOURUSERNAME)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](https://yourportfolio.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOURUSERNAME)  
 
 ---
 
-⭐️ From [Your Name](https://github.com/YOURUSERNAME)
+⭐️ From [Muhammad Umar ](https://github.com/muhammadumar-codes)
