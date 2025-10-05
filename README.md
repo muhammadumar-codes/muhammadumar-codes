@@ -1,31 +1,55 @@
-# 👋 Hi there, I'm Muhammad Umar  
+👋 Hi, I'm Muhammad Umar
 
-💻 Fron-End Developer | Future Full Stack Developer | BS Computer Science (Software Engineering)
+Frontend Developer | React Specialist | Computer Science Graduate
+🚀 Professional Summary
 
----
+Results-driven Frontend Developer with expertise in modern JavaScript ecosystems, specializing in React and TypeScript. Passionate about crafting scalable, performant web applications with exceptional user experiences. Currently expanding into full-stack development while maintaining a strong focus on clean code architecture and industry best practices.
+💼 Technical Expertise
+Frontend Development
 
-## About Me  
-- 🌱 Currently improving my skills in **React & TypeScript**  
-- 👯 Open to collaborating on **frontend and open-source projects**  
-- 💡 Love creating **clean, responsive, and user-friendly UIs**  
-- 📫 Reach me at **muhammadumar.codes@gmail.com**  
-- ⚡ Fun fact: I enjoy turning coffee ☕ into elegant designs 🎨  
+https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,redux,nextjs
 
----
+    Frameworks & Libraries: React, Next.js, TypeScript, Redux Toolkit
 
-## 🛠️ My Tech Stack  
+    Styling: Tailwind CSS, Bootstrap, CSS Modules, Styled Components
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,git,github,vscode,yarn,npm,tailwind,bootstrap,figma)](https://skillicons.dev)
+    Build Tools: Vite, Webpack, npm, yarn
 
+Development Tools & Practices
 
----
+https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify
 
-## 🌐 Connect With Me  
+    Version Control: Git, GitHub, GitFlow
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammadumar-developer)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhammadumar.codes@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/muhammadumar-codes)  
+    Development: VS Code, Chrome DevTools, ESLint, Prettier
 
----
+    Design & Deployment: Figma, Vercel, Netlify
 
-⭐️ From [Muhammad Umar](https://github.com/muhammadumar-codes)
+    Methodologies: Agile, Scrum, CI/CD, Responsive Design
+
+📈 Current Focus
+
+    🔭 Advancing expertise in React 18+ features and patterns
+
+    🚀 Mastering TypeScript for enterprise-level applications
+
+    📚 Exploring Next.js 14 and full-stack development
+
+    🎯 Implementing performance optimization strategies
+
+    🔄 Contributing to open-source projects
+
+📫 Professional Contact
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white
+💡 Development Philosophy
+
+    "I believe in writing maintainable, scalable code that not only solves today's problems but anticipates tomorrow's challenges. Transforming complex requirements into intuitive user interfaces is where technical expertise meets creative problem-solving."
+
+📊 GitHub Analytics
+
+https://github-readme-stats.vercel.app/api?username=muhammadumar-codes&show_icons=true&theme=radical
+https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumar-codes&layout=compact&theme=radical
