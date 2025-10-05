@@ -20,23 +20,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,git,github,vscode,yarn,npm,figma" />
 </p>
 
----
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadumar-codes&show_icons=true&theme=tokyonight" alt="stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadumar-codes&theme=tokyonight" alt="streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadumar-codes&layout=compact&theme=tokyonight" alt="languages"/>
-</p>
-
----
 
 ## 🌐 Connect With Me  
 
