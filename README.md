@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Muhammad Umar  
 
-💻 **Front-End Developer** | 🎯 Future Full Stack Engineer | 🎓 BS Computer Science (Software Engineering)  
+ **Front-End Developer** |  Future Full Stack Engineer |  BS Computer Science (Software Engineering)  
 
 ---
 
