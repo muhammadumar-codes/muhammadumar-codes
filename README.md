@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+(MERN);Building+Scalable+Web+Applications;Clean+Code+%7C+Modern+Architecture;Always+Learning+New+Technologies" />
 </p>
----
 
 ## About Me  
 
