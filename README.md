@@ -1,10 +1,13 @@
-# 👋 Hi, I'm Muhammad Umar  
+<h1 align="center">
+  👋 Hi, I'm Muhammad Umar
+</h1>
 
-### 🚀 Full-Stack Engineer (MERN) | Building Scalable Web Applications  
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+(MERN);Building+Scalable+Web+Applications;Clean+Code+%7C+Modern+Architecture;Always+Learning+New+Technologies" />
+</p>
 ---
 
-## 💡 About Me  
+## About Me  
 
 I am a Full-Stack Developer specializing in the **MERN stack (MongoDB, Express, React, Node.js)**, focused on building **scalable, high-performance web applications**.  
 I follow **clean architecture, best practices, and modern development standards** while continuously improving my skills.  
@@ -75,19 +78,7 @@ I follow **clean architecture, best practices, and modern development standards*
 - 🌐 **Modern Frontend Systems**  
   Responsive, high-performance UIs with React, TypeScript, and modern tools  
 
----
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadumar-codes&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadumar-codes&theme=github-dark" />
-</p>
-
----
 
 ## 🌐 Connect With Me  
 
