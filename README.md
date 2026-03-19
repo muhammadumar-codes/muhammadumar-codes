@@ -6,20 +6,21 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+(MERN);Building+Scalable+Web+Applications;Clean+Code+%7C+Modern+Architecture;Always+Learning+New+Technologies" />
 </p>
 
-## About Me  
+
+## 💡 About Me  
 
 I am a Full-Stack Engineer specializing in the **MERN stack (MongoDB, Express, React, Node.js)**, focused on building **scalable, high-performance web applications**.  
-I follow **clean architecture, best practices, and modern development standards** while continuously improving my skills.  
+I follow **clean architecture, best practices, and modern development standards** while continuously improving my skills. 
 
--  Building **full-stack applications & REST APIs**  
--  Exploring **TypeScript, Next.js, and cloud systems**  
--  Interested in **system design & scalable architecture**  
--  Goal: Become a **top-tier Full-Stack Engineer**  
--  Email: **muhammadumar.codes@gmail.com**  
+- 🔭 Building **full-stack applications & REST APIs**  
+- 🌱 Exploring **TypeScript, Next.js, and cloud systems**  
+- 💡 Interested in **system design & scalable architecture**  
+- 🎯 Goal: Become a **top-tier Full-Stack Engineer**  
+- 📫 Email: **muhammadumar.codes@gmail.com** 
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack    
 
 <p align="center">
 
@@ -62,19 +63,18 @@ I follow **clean architecture, best practices, and modern development standards*
 </p>
 
 ---
-
 ##  Projects  
 
--  **E-Commerce Applications**  
+- 🛒 **E-Commerce Applications**  
   Scalable MERN apps with authentication, dashboards, and production-ready architecture  
 
--  **Authentication & API Systems**  
+- 🔐 **Authentication & API Systems**  
   Secure backend systems using JWT, role-based access, and REST APIs  
 
--  **Full-Stack Applications**  
+- 📦 **Full-Stack Applications**  
   End-to-end apps with CRUD operations, clean architecture, and deployment  
 
--  **Modern Frontend Systems**  
+- 🌐 **Modern Frontend Systems**  
   Responsive, high-performance UIs with React, TypeScript, and modern tools  
 
 
