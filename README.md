@@ -8,14 +8,14 @@
 
 ## About Me  
 
-I am a Full-Stack Developer specializing in the **MERN stack (MongoDB, Express, React, Node.js)**, focused on building **scalable, high-performance web applications**.  
+I am a Full-Stack Engineer specializing in the **MERN stack (MongoDB, Express, React, Node.js)**, focused on building **scalable, high-performance web applications**.  
 I follow **clean architecture, best practices, and modern development standards** while continuously improving my skills.  
 
-- 🔭 Building **full-stack applications & REST APIs**  
-- 🌱 Exploring **TypeScript, Next.js, and cloud systems**  
-- 💡 Interested in **system design & scalable architecture**  
-- 🎯 Goal: Become a **top-tier Full-Stack Engineer**  
-- 📫 Email: **muhammadumar.codes@gmail.com**  
+-  Building **full-stack applications & REST APIs**  
+-  Exploring **TypeScript, Next.js, and cloud systems**  
+-  Interested in **system design & scalable architecture**  
+-  Goal: Become a **top-tier Full-Stack Engineer**  
+-  Email: **muhammadumar.codes@gmail.com**  
 
 ---
 
@@ -63,23 +63,23 @@ I follow **clean architecture, best practices, and modern development standards*
 
 ---
 
-## 🚀 Projects  
+##  Projects  
 
-- 🛒 **E-Commerce Applications**  
+-  **E-Commerce Applications**  
   Scalable MERN apps with authentication, dashboards, and production-ready architecture  
 
-- 🔐 **Authentication & API Systems**  
+-  **Authentication & API Systems**  
   Secure backend systems using JWT, role-based access, and REST APIs  
 
-- 📦 **Full-Stack Applications**  
+-  **Full-Stack Applications**  
   End-to-end apps with CRUD operations, clean architecture, and deployment  
 
-- 🌐 **Modern Frontend Systems**  
+-  **Modern Frontend Systems**  
   Responsive, high-performance UIs with React, TypeScript, and modern tools  
 
 
 
-## 🌐 Connect With Me  
+##  Connect With Me  
 
 <p align="center">
   <a href="mailto:muhammadumar.codes@gmail.com">
