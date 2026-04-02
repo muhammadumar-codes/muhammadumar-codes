@@ -21,7 +21,7 @@ const MuhammadUmar = {
   stack:      ["MongoDB", "Express", "React", "Node.js", "Next.js", "TypeScript"],
   focus:      ["System Design", "Scalable Architecture", "Clean Code", "DSA"],
   learning:   ["AWS", "Docker", "Microservices", "Kubernetes"],
-  goal:       "FAANG-Level Engineer 🚀",
+  goal:       "FAANG-Level Engineer ",
   email:      "muhammadumar.codes@gmail.com",
   available:  true,
 };
