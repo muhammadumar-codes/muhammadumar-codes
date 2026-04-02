@@ -13,7 +13,7 @@
 
 ## 💡 About Me
 
-I am a **Senior Full-Stack Engineer** specializing in the **MERN stack + Next.js**, focused on building **scalable, high-performance, production-grade web applications**. I follow **clean architecture, SOLID principles, and modern engineering standards** while continuously leveling up toward FAANG-caliber engineering.
+I am a **Full-Stack Engineer** specializing in the **MERN stack + Next.js**, focused on building **scalable, high-performance, production-grade web applications**. I follow **clean architecture, SOLID principles, and modern engineering standards** while continuously leveling up toward FAANG-caliber engineering.
 
 ```typescript
 const MuhammadUmar = {
