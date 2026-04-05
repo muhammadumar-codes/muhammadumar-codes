@@ -1,11 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Umar;Full-Stack+Engineer+(MERN+%2B+Next.js);Building+Scalable+Distributed+Systems;Clean+Architecture+%7C+System+Design;FAANG-Level+Engineering+Standards" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Muhammad+Umar;Senior+Full-Stack+Engineer;MERN+%7C+Next.js+%7C+TypeScript;System+Design+%7C+Clean+Architecture;FAANG-Level+Engineering+Standards" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=muhammadumar-codes&label=Profile+Views&color=6366f1&style=flat" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat&logo=circle&logoColor=white" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Focus-FAANG%20Ready-f59e0b?style=flat" />
+  &nbsp;
   <img src="https://img.shields.io/badge/Location-Pakistan%20%F0%9F%87%B5%F0%9F%87%B0-6366f1?style=flat" />
 </p>
 
@@ -17,12 +20,13 @@ I am a **Full-Stack Engineer** specializing in the **MERN stack + Next.js**, foc
 
 ```typescript
 const MuhammadUmar = {
-  role:       "Senior Full-Stack Engineer",
-  stack:      ["MongoDB", "Express", "React", "Node.js", "Next.js", "TypeScript"],
-  focus:      ["System Design", "Scalable Architecture", "Clean Code", "DSA"],
-  learning:   ["AWS", "Docker", "Microservices", "Kubernetes"],
-  goal:       "FAANG-Level Engineer ",
-  email:      "muhammadumar.codes@gmail.com",
+  role:      "Senior Full-Stack Engineer",
+  stack:     ["MongoDB", "Express", "React", "Node.js", "Next.js", "TypeScript"],
+  focus:     ["System Design", "Scalable Architecture", "Clean Code", "DSA"],
+  learning:  ["AWS", "Docker", "Microservices", "Kubernetes"],
+  goal:      "FAANG-Level Engineer ",
+  youtube:   "youtube.com/@MuhammadUmar-codes",
+  email:     "muhammadumar.codes@gmail.com",
   available:  true,
 };
 ```
@@ -31,8 +35,45 @@ const MuhammadUmar = {
 - 🌱 Deepening skills in **TypeScript, Next.js 14, AWS & DevOps**
 - 📐 Practicing **System Design** — scalability, caching, messaging queues
 - 🧠 Sharpening **DSA** — LeetCode patterns, Big-O analysis, graph algorithms
+- 🎥 Sharing knowledge on **YouTube** — tutorials, projects & engineering concepts
 - 🎯 Goal: Land a **top-tier engineering role** at a world-class company
 - 📫 Email: **muhammadumar.codes@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:muhammadumar.codes@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/muhammadumar-codes">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/muhammadumar-codes">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@MuhammadUmar-codes">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/codewithumar12">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://web.facebook.com/umar.faraz.962660">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@MuhammadUmar-codes">
+    <img src="https://img.shields.io/badge/▶_Watch_my_tutorials_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -102,101 +143,147 @@ const MuhammadUmar = {
 
 ---
 
-
-
-### ⚙️ SOLID Principles in Practice
-
-```typescript
-S → Single Responsibility  — Each class/function does ONE thing
-O → Open/Closed            — Open for extension, closed for modification
-L → Liskov Substitution    — Subtypes must be substitutable for base types
-I → Interface Segregation  — No client should depend on unused methods
-D → Dependency Inversion   — Depend on abstractions, not concretions
-```
-
----
-
 ## 🚀 Featured Projects
 
-### 🛒 E-Commerce Platform (Full-Stack)
-> Scalable MERN e-commerce with real-time inventory, Stripe payments, admin dashboard, and role-based auth.
+### 🛒 E-Commerce Platform — Full-Stack
+> Scalable MERN e-commerce with real-time inventory, Stripe payments, admin dashboard & role-based access control.
 
 `React` `Node.js` `MongoDB` `Redux Toolkit` `Stripe` `JWT` `TailwindCSS`
 
 ---
 
-### 🔐 Auth & API System (Backend)
-> Production-ready auth with JWT, refresh tokens, RBAC, OAuth 2.0, Redis caching, and rate limiting.
+### 🔐 Auth & API System — Backend
+> Production-ready authentication with JWT, refresh tokens, RBAC, OAuth 2.0, Redis caching & rate limiting.
 
 `Express` `PostgreSQL` `Redis` `JWT` `OAuth 2.0` `Docker` `Jest`
 
 ---
 
-### ⚡ Next.js SaaS Application (Full-Stack)
-> App Router, Server Components, ISR/SSG, tRPC, Prisma ORM, and Stripe subscription billing.
+### ⚡ Next.js SaaS Application — Full-Stack
+> App Router, Server Components, ISR/SSG, tRPC, Prisma ORM & Stripe subscription billing.
 
 `Next.js 14` `TypeScript` `Prisma` `PostgreSQL` `tRPC` `Stripe` `Vercel`
 
 ---
 
-### 💬 Real-Time Chat App (Full-Stack)
-> WebSocket-powered chat with rooms, presence detection, file sharing, and Redis message persistence.
+### 💬 Real-Time Chat App — Full-Stack
+> WebSocket-powered chat with rooms, presence detection, file sharing & Redis message persistence.
 
 `Socket.io` `React` `Node.js` `MongoDB` `Redis` `JWT`
 
 ---
 
-### 📦 Component Library (Frontend)
-> Accessible, typed React component library with dark mode, Storybook docs, and full test coverage.
+### 📦 Component Library — Frontend
+> Accessible, fully typed React component library with dark mode, Storybook documentation & test coverage.
 
 `React` `TypeScript` `TailwindCSS` `shadcn/ui` `Storybook` `Jest`
 
 ---
 
-### 🔁 DevOps Pipeline (Backend)
-> Dockerized Node.js microservices with GitHub Actions CI/CD, automated testing, and AWS deployment.
+### 🔁 DevOps Pipeline — Infrastructure
+> Dockerized Node.js microservices with GitHub Actions CI/CD, automated testing & AWS deployment.
 
 `Docker` `GitHub Actions` `AWS EC2` `Nginx` `PM2` `Jest`
 
 ---
 
+## 📐 Data Structures & Algorithms
 
+### 🏗️ Core Data Structures
 
-## 🎯 Growth Roadmap
+| Category | Structures |
+|---|---|
+| **Linear** | Array, Linked List (Singly / Doubly), Stack, Queue, Deque |
+| **Trees** | BST, AVL Tree, Red-Black Tree, Heap (Min/Max), Trie, Segment Tree |
+| **Graphs** | Adjacency List / Matrix, Weighted & Directed Graphs |
+| **Hashing** | HashMap, HashSet, Collision Handling (Chaining, Open Addressing) |
+| **Advanced** | Monotonic Stack, LRU Cache, Disjoint Set (Union-Find) |
+
+### ⚡ Algorithm Complexity Reference
+
+| Algorithm | Best | Average | Worst | Space |
+|---|---|---|---|---|
+| Binary Search | O(1) | O(log n) | O(log n) | O(1) |
+| Merge Sort | O(n log n) | O(n log n) | O(n log n) | O(n) |
+| Quick Sort | O(n log n) | O(n log n) | O(n²) | O(log n) |
+| Heap Sort | O(n log n) | O(n log n) | O(n log n) | O(1) |
+| BFS / DFS | O(V+E) | O(V+E) | O(V+E) | O(V) |
+| Dijkstra | O(E log V) | O(E log V) | O(E log V) | O(V) |
+| Dynamic Programming | O(n) | O(n²) | O(n³) | O(n) |
+| HashMap Lookup | O(1) | O(1) | O(n) | O(n) |
+
+### 🎯 Problem-Solving Patterns
 
 ```
-✅ MERN Stack Mastery          →  MongoDB · Express · React · Node.js (production-level)
-✅ TypeScript & Next.js 14     →  App Router, Server Components, advanced patterns
-✅ Clean Architecture & SOLID  →  Repository, Service Layer, DI, design patterns
-🔄 System Design               →  Distributed systems, microservices, cloud-native
-🔄 DevOps & Cloud (AWS)        →  Docker, Kubernetes, CI/CD, IaC
-🔄 DSA & LeetCode Patterns     →  100+ problems, all major patterns
-⏳ FAANG Interview Prep        →  System design interviews, behavioral rounds
-⏳ Open Source Contributions   →  React, Next.js or major JS ecosystem projects
-⏳ Technical Writing / Blog    →  Share learnings, build in public
+Two Pointers       →  Pair sums, palindrome checks, container problems
+Sliding Window     →  Subarray / substring, max/min in window
+Fast & Slow Ptr    →  Cycle detection, middle of linked list
+Binary Search      →  Search in rotated array, first/last position
+Prefix Sum         →  Range queries, subarray sum equals k
+Tree Traversal     →  Inorder, Preorder, Postorder, Level-order (BFS)
+Graph Algorithms   →  BFS, DFS, Topological Sort, Dijkstra, Union-Find
+Dynamic Prog.      →  Knapsack, LCS, LIS, Coin Change, Edit Distance
+Backtracking       →  Permutations, Combinations, N-Queens, Sudoku
+Greedy             →  Activity Selection, Interval Scheduling, Huffman
+Bit Manipulation   →  XOR tricks, power of two, subset enumeration
+Divide & Conquer   →  Merge sort, binary search, Karatsuba
 ```
 
 ---
 
-## 🌐 Connect With Me
+## 🏗️ System Design
 
-<p align="center">
-  <a href="mailto:muhammadumar.codes@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammadumar-codes">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/muhammadumar-codes">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://web.facebook.com/umar.faraz.962660">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/codewithumar12">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+### 🔑 Core Pillars
+
+| Pillar | Concepts |
+|---|---|
+| **Scalability** | Horizontal scaling, Load balancing, Sharding, CDN, Stateless services |
+| **Reliability** | Circuit Breaker, Retry logic, Rate limiting, Health checks, Failover |
+| **Caching** | Redis, Write-through / Write-back, Cache invalidation, LRU / LFU |
+| **Databases** | SQL vs NoSQL, ACID vs BASE, Indexing, Replication, CAP Theorem |
+| **Messaging** | Pub/Sub, Message queues (BullMQ), Event-driven, Webhooks |
+| **API Design** | REST best practices, GraphQL, Versioning, Pagination, Idempotency |
+| **Security** | JWT, OAuth 2.0, RBAC, HTTPS, Input validation, Rate limiting |
+| **Observability** | Logging, Metrics, Distributed tracing, Alerting |
+
+### 🧩 Architecture & Design Patterns
+
+```
+Clean Architecture     →  Separation of concerns, dependency inversion
+Repository Pattern     →  Abstract data access layer
+Service Layer          →  Business logic isolation
+Factory Pattern        →  Object creation abstraction
+Singleton              →  Single instance services (DB connections)
+Observer / Event Bus   →  Decoupled communication between modules
+Middleware Pattern     →  Cross-cutting concerns (auth, logging, validation)
+Dependency Injection   →  Testable, loosely coupled code
+CQRS                   →  Separate read and write models
+Event Sourcing         →  Audit trail, time-travel debugging
+```
+
+### ⚙️ SOLID Principles in Practice
+
+```typescript
+S → Single Responsibility  —  Each class / function does ONE thing
+O → Open / Closed          —  Open for extension, closed for modification
+L → Liskov Substitution    —  Subtypes must be substitutable for base types
+I → Interface Segregation  —  No client should depend on unused methods
+D → Dependency Inversion   —  Depend on abstractions, not concretions
+```
+
+## 🎯 Growth Roadmap
+
+```
+✅  MERN Stack Mastery          →  MongoDB · Express · React · Node.js (production-level)
+✅  TypeScript & Next.js 14     →  App Router, Server Components, advanced patterns
+✅  Clean Architecture & SOLID  →  Repository, Service Layer, DI, design patterns
+🔄  System Design               →  Distributed systems, microservices, cloud-native
+🔄  DevOps & Cloud (AWS)        →  Docker, Kubernetes, CI/CD, infrastructure as code
+🔄  DSA & LeetCode Patterns     →  100+ problems, all major patterns
+⏳  FAANG Interview Prep        →  System design interviews, behavioral rounds
+⏳  Open Source Contributions   →  React, Next.js or major JS ecosystem projects
+⏳  YouTube & Technical Blog    →  Share learnings, build in public, grow community
+```
 
 ---
 
@@ -207,7 +294,9 @@ D → Dependency Inversion   — Depend on abstractions, not concretions
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer&fontSize=14" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer" />
 </p>
 
-<p align="center">⭐ <strong>From Muhammad Umar</strong> — If you find this useful, drop a star!</p>
+<p align="center">
+  ⭐ <strong>From Muhammad Umar</strong> &nbsp;·&nbsp; Found this useful? Star the repo & <a href="https://www.youtube.com/@MuhammadUmar-codes">subscribe on YouTube!</a>
+</p>
