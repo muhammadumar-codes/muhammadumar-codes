@@ -69,11 +69,6 @@ const MuhammadUmar = {
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.youtube.com/@MuhammadUmar-codes">
-    <img src="https://img.shields.io/badge/▶_Watch_my_tutorials_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
