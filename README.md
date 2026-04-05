@@ -20,7 +20,7 @@ I am a **Full-Stack Engineer** specializing in the **MERN stack + Next.js**, foc
 
 ```typescript
 const MuhammadUmar = {
-  role:      "Senior Full-Stack Engineer",
+  role:      "Full-Stack Engineer",
   stack:     ["MongoDB", "Express", "React", "Node.js", "Next.js", "TypeScript"],
   focus:     ["System Design", "Scalable Architecture", "Clean Code", "DSA"],
   learning:  ["AWS", "Docker", "Microservices", "Kubernetes"],
