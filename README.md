@@ -56,7 +56,7 @@ const MuhammadUmar = {
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.youtube.com/@MuhammadUmar-codes">
+  <a href="https://www.youtube.com/@umarxcodes">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   &nbsp;
